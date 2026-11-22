@@ -37,7 +37,7 @@
 
 - **Правки на сайте** (✎ у блюда, «Продукты и цены») хранятся в скрипте Google и видны всем.
   Эта копия — для Амриты (Астана): свои правки, блюда и цены. Скрипт ставится в аккаунте amrita108astana@gmail.com
-  (`apps-script/README.md`), его адрес — в `DOCS_WEBAPP_URL` в `data/config.js`. Пока адрес пустой, правки на сайте не сохраняются.
+  (`apps-script/README.md`), его адрес — в `DOCS_WEBAPP_URL` в `data/config.js`. Скрипт: https://script.google.com/d/1N4QcDcssFtwdvxB0IrkDxpZSrP2DD-bkjzSFB5cJG7rCIV_61gbEKYNt/edit
 - Цены из старых закупов пересчитаны к 2026 году по году файла: 2023 — +30%, 2024 — +20%, 2025 — +10%.
 
 ## Файлы
