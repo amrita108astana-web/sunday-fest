@@ -1,6 +1,6 @@
 # 🪷 Воскресный пир — меню и закуп
 
-Сайт для повара и закупщика: https://amrita108astana-web.github.io/sunday-feast/ (локально — http://localhost:8794)
+Сайт для повара и закупщика: https://amrita108astana-web.github.io/sunday-fest/ (локально — http://localhost:8794)
 
 Пошагово:
 
